@@ -1,1 +1,1 @@
-send special token that has highest balance.
+Send special token that has highest balance in Ethereum network.
